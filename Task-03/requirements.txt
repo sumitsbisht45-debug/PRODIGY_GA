@@ -1,0 +1,10 @@
+# Python version
+python>=3.8
+
+# No external libraries are required.
+# The project uses Python's built-in modules.
+
+# Built-in modules used:
+# random
+# re
+# collections
